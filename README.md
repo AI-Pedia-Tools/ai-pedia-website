@@ -1,6 +1,6 @@
 # IA Tools
 
-This repository contain a front-end build with HTML, TailwindCSS and JavaScript. The purpose of this project is to create a tool that can help to find AI tools for many different purposes.
+This repository contain a front-end build with HTML, [TailwindCSS 3.3.2](https://cdn.tailwindcss.com/3.3.2) and JavaScript. The purpose of this project is to create a tool that can help to find AI tools for many different purposes.
 
 ## Project Structure
 
