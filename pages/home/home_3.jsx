@@ -6,7 +6,6 @@ import {
   Partners,
   Browse_category,
   Hero_3,
-  Bids,
 } from "../../components/component";
 import Meta from "../../components/Meta";
 
@@ -21,7 +20,6 @@ const Home_3 = () => {
       <Meta title="Home 3" />
       <Hero_3 />
       <Browse_category />
-      <Bids classes="dark:bg-jacarta-800 relative py-24" bgWhite={true} />
       <Collection_category />
       <Feature_collections bgWhite={true} />
       <NewseLatter bgWhite={false} />

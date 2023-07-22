@@ -3,7 +3,6 @@ import Meta from "../../components/Meta";
 import Download from "../../components/blog/download";
 import {
   Auctions_categories,
-  Bids,
   Browse_category,
   Partners,
 } from "../../components/component";
@@ -16,7 +15,6 @@ const Home_6 = () => {
     <>
       <Meta title="Home 6" />
       <Hero_6 />
-      <Bids />
       <Collection_category bgWhite={true} />
       <Auctions_categories />
       <Browse_category bgWhite={true} />
