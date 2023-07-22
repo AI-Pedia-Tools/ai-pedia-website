@@ -3,3 +3,4 @@ node_modules/
 
 # Ignorar el archivo yarn.lock
 yarn.lock
+node_modules
